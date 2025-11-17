@@ -1,0 +1,5 @@
+{
+  "name": "Trình chỉnh sửa ảnh AI",
+  "description": "Một trình chỉnh sửa ảnh thân thiện, dựa trên trình duyệt, cho phép bạn tải lên, áp dụng các bộ lọc và chuyển đổi cơ bản, và tải xuống hình ảnh đã chỉnh sửa của bạn ngay lập tức. Không yêu cầu backend.",
+  "requestFramePermissions": []
+}
